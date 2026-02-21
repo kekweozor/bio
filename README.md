@@ -84,6 +84,6 @@
 <h2 align="left">Lets Connect 🤝</h2>
 <p align="center">
   
-<a href="https://www.linkedin.com/in/kamsi-ekweozor/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="talha-shaikh-668ab8201"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/bababdulganiyu/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="talha-shaikh-668ab8201"/></a>&nbsp;
 <!-- <a href="https://bit.ly/   -Apps" target="blank"><img align="center" src="https://img.shields.io/badge/PlayStore-%23007BFF.svg?style=for-the-badge&logo=Google-Play&logoColor=white" alt="   -Apps"/></a>&nbsp;
 </p> -->
