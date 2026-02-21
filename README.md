@@ -1,14 +1,14 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30" width="30">, I'm Abdulganiyu Babatunde</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30" width="30">, I'm Kamsi Ekweozor</h1>
 <h3 align="center">I am an aspiring</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&lines=Software+Developer" alt="Software Developer">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&lines=Software+Engineer" alt="Software Engineer">
   </a>
 </p>
 
 
-<h3 align='center'>currently in my third year at Carleton University.</h3>
+<h3 align='center'>currently in my final year at Carleton University.</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=  &label=Profile%20views&color=0e75b6&style=flat" alt="  " /> </p> -->
 
@@ -84,6 +84,6 @@
 <h2 align="left">Lets Connect 🤝</h2>
 <p align="center">
   
-<a href="https://www.linkedin.com/in/bababdulganiyu/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="talha-shaikh-668ab8201"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/kekweozor/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="talha-shaikh-668ab8201"/></a>&nbsp;
 <!-- <a href="https://bit.ly/   -Apps" target="blank"><img align="center" src="https://img.shields.io/badge/PlayStore-%23007BFF.svg?style=for-the-badge&logo=Google-Play&logoColor=white" alt="   -Apps"/></a>&nbsp;
 </p> -->
